@@ -32,4 +32,8 @@ The website will open on your default browser.
 
 
 ### Link to the project on roadmap.sh
-[Portfolio Project in roadmap.sh](https://roadmap.sh/projects/image-grid)
+[Image Gird Layout Project in roadmap.sh](https://roadmap.sh/projects/image-grid)
+
+### Live Demo 
+[View the live Image Grid ](https://gaiiaa15.github.io/Image-Grid-Layout---CSS/)
+
